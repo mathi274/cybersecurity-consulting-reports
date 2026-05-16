@@ -1,0 +1,67 @@
+# Cybersecurity Incident Assessment Report  
+## Suspected Business Email Compromise (BEC) Attack – UK Property Company
+
+---
+
+## 1. Executive Summary
+This report assesses a suspected Business Email Compromise (BEC) incident affecting a UK-based property management company. The attack involved fraudulent emails impersonating senior management to initiate unauthorized financial transfers and potential credential compromise.
+
+---
+
+## 2. Incident Overview
+- Employees received fake invoice/payment requests
+- One employee nearly transferred £18,000
+- Suspicious login activity detected from overseas IPs
+- Possible credential compromise identified
+
+---
+
+## 3. Attack Type Analysis
+The incident is classified as Business Email Compromise (BEC), a form of social engineering attack where threat actors impersonate trusted individuals to manipulate financial transactions or gain access to systems.
+
+---
+
+## 4. Impact Assessment
+
+### Financial Impact
+- Potential fraudulent transfer of £18,000
+- Risk of additional financial fraud attempts
+
+### Data Security Impact
+- Possible access to employee email accounts
+- Exposure of sensitive tenant and financial data
+
+### Operational Impact
+- Disruption to payment verification processes
+- Investigation and recovery downtime
+
+### Regulatory Impact (UK GDPR)
+- Potential reportable data breach under UK GDPR regulations
+
+---
+
+## 5. Indicators of Compromise
+- Fake executive impersonation emails
+- Login attempts from unusual locations
+- Urgent payment language in emails
+- Mismatched sender domains
+
+---
+
+## 6. Recommendations
+
+### Immediate Actions
+- Reset compromised credentials
+- Enable Multi-Factor Authentication (MFA)
+- Block malicious email domains
+- Freeze pending transactions
+
+### Long-term Actions
+- Implement email authentication (DMARC, SPF, DKIM)
+- Introduce dual approval for payments
+- Conduct phishing awareness training
+
+---
+
+## 7. Conclusion
+This incident highlights the importance of email security and financial verification controls in preventing Business Email Compromise attacks.
