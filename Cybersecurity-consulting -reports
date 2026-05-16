@@ -1,6 +1,23 @@
 # Cybersecurity Incident Assessment Report  
 ## Suspected Business Email Compromise (BEC) Attack – UK Property Company
+🏢 Client: “Harbour & Co Property Services (UK)”
 
+A mid-sized UK property management company handling residential and commercial buildings across London and Manchester.
+
+They manage:
+
+tenant personal data (IDs, contracts, bank details)
+rent payments and invoices
+maintenance vendor accounts           
+he IT manager reports:
+
+“Several employees received emails pretending to be from senior management requesting urgent invoice payments to a new bank account. One employee almost processed a £18,000 transfer before verification.”
+
+At the same time:
+
+One employee clicked a link in a similar email
+Their login credentials may have been compromised
+Unusual login attempts were detected from overseas IP addresses
 ---
 
 ## 1. Executive Summary
